@@ -15,7 +15,7 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Basic Location Sample</string>
+    <string name="app_name">bitgo</string>
     <string name="latitude_label">Latitude</string>
     <string name="longitude_label">Longitude</string>
 
